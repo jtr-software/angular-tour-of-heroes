@@ -4,6 +4,8 @@ import { HeroService } from '../hero.service';
 
 import { Hero } from '../hero';
 
+console.log(TEst)
+
 @Component({
   selector: 'app-dashboard',
   templateUrl: './dashboard.component.html',
